@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Item:</h1>
+    {{object.title}}<br>
+ {% if object.description != None and object.description != '' %}
+        
+     {{object.description}}
+    {% else %}
+        Coming Soon
+
+    {% endif %}
+    <br>
+    {{object.price}}  
+{% endblock content %}

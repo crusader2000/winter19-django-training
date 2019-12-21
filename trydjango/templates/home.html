@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>HELLO WORLD</h1>
+{{request.user}}
+<br>
+{{request.user.is_authenticated}}
+<p>This is a template</p>
+{{my_name|capfirst}}<br>
+{{my_number}}<br>
+{{my_list}}<br>
+
+<ul>
+{% for items in my_list %}
+	
+	{% if items == 1231 %}
+	<li>{{forloop.counter}} - {{items|add:22}}</li>
+	{% else  %}
+	<li>{{forloop.counter}} - {{items}}</li>
+	{% endif %}
+
+{% endfor %}
+</ul>
+{% endblock content %}

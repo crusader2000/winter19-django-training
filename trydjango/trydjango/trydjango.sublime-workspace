@@ -1,0 +1,953 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"os",
+				"os.path.join"
+			],
+			[
+				"conta",
+				"contact_view"
+			],
+			[
+				"ho",
+				"home_view"
+			],
+			[
+				"Htt",
+				"HttpResponse〔class〕"
+			],
+			[
+				"x",
+				"x_0"
+			],
+			[
+				"X",
+				"X_real_0"
+			],
+			[
+				"P",
+				"P1_real"
+			],
+			[
+				"p",
+				"P2_real"
+			],
+			[
+				"tem",
+				"temp4"
+			],
+			[
+				"te",
+				"temp3"
+			],
+			[
+				"conv",
+				"convolution"
+			],
+			[
+				"for",
+				"for〔keyword〕"
+			],
+			[
+				"drunk",
+				"drunk2"
+			],
+			[
+				"C",
+				"c_i_1"
+			],
+			[
+				"c_i",
+				"c_i_1"
+			],
+			[
+				"sh",
+				"shift_1"
+			],
+			[
+				"le",
+				"level_0"
+			],
+			[
+				"rand",
+				"randx〔variable〕"
+			],
+			[
+				"im",
+				"Impulse"
+			],
+			[
+				"freq",
+				"Frequency"
+			],
+			[
+				"da",
+				"dataset〔variable〕"
+			],
+			[
+				"file",
+				"filename〔variable〕"
+			],
+			[
+				"fina",
+				"final_array〔variable〕"
+			],
+			[
+				"word",
+				"words〔variable〕"
+			],
+			[
+				"c",
+				"cv2"
+			],
+			[
+				"img2",
+				"img2_fg"
+			],
+			[
+				"ma",
+				"mask_inv〔variable〕"
+			],
+			[
+				"img",
+				"img2gray"
+			],
+			[
+				"pos",
+				"$post〔variable〕"
+			],
+			[
+				"del",
+				"$deleteResponse〔variable〕"
+			],
+			[
+				"han",
+				"handleDeleteComment〔function〕"
+			],
+			[
+				"comme",
+				"$commentData〔variable〕"
+			],
+			[
+				"hand",
+				"handleAddComment〔function〕"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"po",
+				"$postId〔variable〕"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"commen",
+				"comment"
+			],
+			[
+				"req",
+				"require〔keyword〕"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"ses",
+				"session_start〔function〕"
+			],
+			[
+				"pd",
+				"$pdo〔variable〕"
+			],
+			[
+				"ins",
+				"install"
+			],
+			[
+				"conver",
+				"convertNewlinesToParagraphs〔function〕"
+			],
+			[
+				"we",
+				"website"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"VA",
+				"VARCHAR"
+			],
+			[
+				"cr",
+				"created_at"
+			],
+			[
+				"I",
+				"INTEGER"
+			],
+			[
+				"pa",
+				"paraText"
+			],
+			[
+				"bo",
+				"$bodytext〔variable〕"
+			],
+			[
+				"_",
+				"__halt_compiler"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"dat",
+				"$database〔variable〕"
+			],
+			[
+				"mcb",
+				"mcb_shelf〔variable〕"
+			],
+			[
+				"mc",
+				"mcb_shelf〔variable〕"
+			],
+			[
+				"co",
+				"correctAnswer"
+			],
+			[
+				"dic",
+				"dictionary〔variable〕"
+			],
+			[
+				"w",
+				"wrong_answers"
+			],
+			[
+				"qui",
+				"quizfile〔variable〕"
+			],
+			[
+				"quiz",
+				"quizfile〔variable〕"
+			],
+			[
+				"quz",
+				"quizNum〔variable〕"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"al",
+				"all_lines_co_ords"
+			],
+			[
+				"BO",
+				"BOARD_WIDTH〔variable〕"
+			],
+			[
+				"para",
+				"paragraph"
+			],
+			[
+				"op",
+				"hl_open_comment"
+			],
+			[
+				"ab",
+				"ab_append"
+			],
+			[
+				"mem",
+				"memset"
+			],
+			[
+				"sc",
+				"scs_len"
+			],
+			[
+				"HL",
+				"HL_COMMENT"
+			],
+			[
+				"pre",
+				"prev_sep"
+			],
+			[
+				"H",
+				"HL_HIGHLIGHT_STRINGS"
+			],
+			[
+				"fi",
+				"filerow"
+			],
+			[
+				"fiel",
+				"filerow"
+			],
+			[
+				"fil",
+				"filematch"
+			],
+			[
+				"ex",
+				"ext"
+			],
+			[
+				"is",
+				"is_ext"
+			],
+			[
+				"synt",
+				"syntax"
+			],
+			[
+				"sy",
+				"syntax"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"und",
+				"undefined〔keyword〕"
+			],
+			[
+				"rem",
+				"removeSprite"
+			],
+			[
+				"obs",
+				"obstacleSprites〔variable〕"
+			],
+			[
+				"f",
+				"firstObstacle"
+			],
+			[
+				"ob",
+				"obstacleSprites"
+			],
+			[
+				"GR",
+				"GRAVITY"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"g",
+				"groundSprite"
+			],
+			[
+				"gr",
+				"groundSprites"
+			],
+			[
+				"G",
+				"GROUND_SPRITE_HEIGHT"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"publi",
+				"published_date"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"NO",
+				"HL_NORMAL"
+			],
+			[
+				"Sa",
+				"saved_hl"
+			],
+			[
+				"sa",
+				"saved_hl"
+			],
+			[
+				"s",
+				"saved_hl_line"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"cu",
+				"current_color"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"upda",
+				"editor_update_syntax"
+			],
+			[
+				"HL_",
+				"HL_NORMAL"
+			],
+			[
+				"ri",
+				"ARROW_RIGHT"
+			],
+			[
+				"AR",
+				"ARROW_LEFT"
+			],
+			[
+				"ca",
+				"editor_find_call_back"
+			],
+			[
+				"row_",
+				"editor_row_rx_to_cx"
+			],
+			[
+				"char",
+				"char"
+			],
+			[
+				"pro",
+				"editor_prompt"
+			],
+			[
+				"b",
+				"buflen"
+			],
+			[
+				"editor_re",
+				"editor_read_key"
+			],
+			[
+				"bu",
+				"buf"
+			],
+			[
+				"rea",
+				"realloc"
+			],
+			[
+				"buf",
+				"buflen"
+			],
+			[
+				"se",
+				"editor_set_status_message"
+			],
+			[
+				"cha",
+				"char"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"inse",
+				"editor_insert_new_line"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ba",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ol",
+				"Package Control: List Packages"
+			],
+			[
+				"the",
+				"UI: Select Color Scheme"
+			],
+			[
+				"brog",
+				"Preferences: Browse Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"OPE",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: coding",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"TE",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina ",
+				"Preferences: Terminal View: Keybindings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 418.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ansh/Desktop/django/env/src/trydjango",
+		"/home/ansh/Desktop/django/env/src/trydjango/pages",
+		"/home/ansh/Desktop/django/env/src/trydjango/trydjango"
+	],
+	"file_history":
+	[
+		"/home/ansh/Desktop/ml/handson/c.ipynb",
+		"/home/ansh/Desktop/ml/handson/b.ipynb",
+		"/home/ansh/Desktop/ml/handson/a.ipynb",
+		"/home/ansh/Desktop/ml/handson/d.ipynb",
+		"/home/ansh/Desktop/django/env/src/trydjango/trydjango/urls.py",
+		"/home/ansh/Desktop/django/env/src/trydjango/pages/views.py",
+		"/home/ansh/Desktop/django/env/src/trydjango/trydjango/settings.py",
+		"/home/ansh/Desktop/django/env/src/trydjango/templates/contact.html",
+		"/home/ansh/Desktop/django/env/src/trydjango/templates/home.html",
+		"/home/ansh/Desktop/django/env/src/trydjango/products/models.py",
+		"/home/ansh/Desktop/django/env/src/trydjango/products/views.py",
+		"/home/ansh/Desktop/django/env/src/trydjango/products/admin.py",
+		"/home/ansh/Desktop/project/hamming_direct.v",
+		"/home/ansh/Desktop/hamming_decoder_mux.v",
+		"/tmp/mozilla_ansh0/mux_hamming.v",
+		"/home/ansh/Downloads/mux_hamming.v",
+		"/home/ansh/Desktop/hamming_clk/hamming_clock.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/project/hammdecoder.v",
+		"/home/ansh/Desktop/hamming_precompute/hamming_precompute.v",
+		"/home/ansh/Desktop/hamming_decoder_serial.v",
+		"/home/ansh/Desktop/hamming_decoder_precompute.v",
+		"/home/ansh/Desktop/decoder/hamming_decoder.v",
+		"/tmp/mozilla_ansh0/mux_hamming_tb.v",
+		"/home/ansh/Desktop/hamming_decoder.v",
+		"/home/ansh/Desktop/hamming_clock.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/project/hamming.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/project/hamming_decoder.v",
+		"/media/ansh/New Volume/Learning Material/codeforces/1213G.cpp",
+		"/home/ansh/Desktop/hammdecoder.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/FSM/xilinx/fsm.ucf",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/FSM/xilinx/fsm.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/FSM/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/FSM/fsm_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/FSM/fsm.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/FSM/waste.v",
+		"/home/ansh/Desktop/script.c",
+		"/home/ansh/Desktop/script3.cpp",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/project/theory",
+		"/home/ansh/Desktop/ml/machine-learning-ex3/ex3/ex3data1.mat",
+		"/home/ansh/Desktop/script3.c",
+		"/home/ansh/Desktop/script1.c",
+		"/home/ansh/Desktop/script2.c",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/project/script3.c",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/project/script1.c",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/usr/xilinx/usr.ucf",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/usr/xilinx/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission7/usr.v",
+		"/usr/local/MATLAB/R2019a/bin/filtering_of_signals.m",
+		"/usr/local/MATLAB/R2019a/bin/windows.m",
+		"/usr/local/MATLAB/R2019a/bin/middlefunc.m",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix2fft/xilinx/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix4fft/xilinx/radix4fft.ucf",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix4fft/xilinx/radix4fft.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/try.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix4fft/xilinx/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix2fft/xilinx/radix2fft.ucf",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix2fft_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix2fft1.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix2fft.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix4fft.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission6/radix4fft_tb.v",
+		"/home/ansh/Pictures/filtering_of_signals.m",
+		"/home/ansh/Pictures/filter_windows.m",
+		"/home/ansh/Pictures/windows.m",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission5/serial_adder/xilinx/serial_adder.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission5/serial_adder/xilinx/serial_adder_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission5/serial_adder.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission5/serial_adder_tb.v",
+		"/home/ansh/a.html",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8/8.4/Theory/theory.txt",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8/dftconv.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8/tictoc.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8/radix2fft.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8/8.2/radix2fft.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8/8.1/directComputation.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab8",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission5/d_flipflop/xilinx/xilinx_rep.rep",
+		"/home/ansh/lab.codingblocks.com/_pages/ideas.md",
+		"/home/ansh/Desktop/classes/sem2-1/science-1/assignment/science2.py",
+		"/home/ansh/Desktop/classes/sem2-1/science-1/assignment/combination.py",
+		"/home/ansh/combination.py",
+		"/home/ansh/science2.py",
+		"/home/ansh/science1.py",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/serial_adder.v",
+		"/home/ansh/Arduino/ASSGN2_1/ASSGN2_1.ino",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/shiftandadd.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/booth_multiplier_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/booth_multiplier.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/shiftandadd_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/wallace_tree_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/wallace.ucf",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/wallace_xilinx.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission4/wallace_tree.v",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab7/7.3/polezerocanc.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab7/7.2/a.txt",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab7/7.2/lti_complex_poles.m",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab7/7.1/1/d_ans.txt",
+		"/home/ansh/Desktop/classes/sem2-1/signal processing/lab7/7.1/1/ztransform_of_lti.m",
+		"/etc/X11/lti_of_ztransform.m",
+		"/etc/default/grub",
+		"/home/ansh/Parth/question-generator/pprocessing.py",
+		"/home/ansh/Parth/question-generator/tfid.py",
+		"/home/ansh/Parth/question-generator/bfq_ner.py",
+		"/home/ansh/Parth/question-generator/mcq.py",
+		"/home/ansh/Parth/question-generator/script.sh",
+		"/home/ansh/Parth/question-generator/script.py",
+		"/home/ansh/Parth/question-generator/final/12_chemistry_12_output.json",
+		"/home/ansh/Parth/question-generator/final/12_physics_1_output.json",
+		"/home/ansh/Parth/question-generator/requirements.txt",
+		"/home/ansh/Parth/question-generator/out.json",
+		"/home/ansh/Parth/genquest/quest.py",
+		"/home/ansh/Parth/Automatic-Question-Generator/AutomaticQuestionGenerator/main.py",
+		"/home/ansh/Parth/physics_data/keph105.txt",
+		"/home/ansh/Parth/question-generator/copy_bfq_v1.py",
+		"/home/ansh/Parth/genquest/file.txt",
+		"/home/ansh/Parth/genquest/requirements.txt",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_16_carry_lookahead/bit_16_carry_lookahead.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_16_carry_lookahead/bit_16_carry_lookahead_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_4_carry_lookahead/bit_4_carry_lookahead_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_4_carry_lookahead/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_4_carry_lookahead/Screenshot from 2019-09-27 09-54-21.png",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/re",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_4_carry_lookahead/bit_4_carry_lookahead.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_16_ripple_carry.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_16_ripple_carry_tb.v",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_1_full_adder/xilinx_rep.rep",
+		"/home/ansh/Desktop/classes/sem2-1/vlsi design/submission3/bit_4_ripple_carry.v"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"m4",
+			"e",
+			"assign ",
+			"e",
+			"assign ",
+			"!",
+			"m[",
+			"s1",
+			"^( m[16])",
+			"\t\n",
+			"D",
+			"⊕",
+			"D",
+			"⊕",
+			"D1⊕"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"e7",
+			"y",
+			"",
+			"temp",
+			"",
+			"~",
+			"e[",
+			"next_state",
+			"",
+			"m[",
+			"^",
+			"m",
+			"^",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 227.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
