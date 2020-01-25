@@ -1,0 +1,15 @@
+https://dizballanze.com/django-project-optimization-part-1/
+
+https://www.twilio.com/docs/voice/tutorials/automated-survey-python-django
+
+http://tommikaikkonen.github.io/timezones/
+
+https://github.com/0xyd/SocialAuthDjangoTutorial
+
+https://books.agiliq.com/projects/django-admin-cookbook/en/latest/
+
+https://books.agiliq.com/projects/django-multi-tenant/en/latest/
+
+https://simpleisbetterthancomplex.com/tutorial/2018/08/27/how-to-create-custom-django-management-commands.html
+
+
